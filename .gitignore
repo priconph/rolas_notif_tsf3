@@ -1,0 +1,70 @@
+# Spreadsheets
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+
+# Documents
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+
+# Images / media
+*.psd
+*.ai
+*.tif
+*.tiff
+*.bmp
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mp3
+*.wav
+
+# Database dumps / backups
+*.sql
+*.bak
+*.backup
+*.mdb
+*.accdb
+*.sqlite
+*.db
+
+# Logs, temp, caches
+*.log
+*.tmp
+*.temp
+*.swp
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Uploads / generated output
+uploads/
+upload/
+temp/
+tmp/
+logs/
+export/
+exports/
+reports/
+
+# Dependencies and IDE
+vendor/
+node_modules/
+.vscode/
+.idea/
+.env
